@@ -45,6 +45,16 @@ For running the stepper motor in clockwise and anticlockwise directions:
 
 ---
 
+
+
+
+
+
+
+
+
+
+
 ## PROGRAM
 ```asm
 ; Stepper Motor Interfacing Program in 8086 Assembly
